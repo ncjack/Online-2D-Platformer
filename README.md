@@ -2,7 +2,7 @@
 Jackson Taylor
 
 How to run the main program:
-1. Once unzipped (which it must be if you're reading this) open the "Platformer" folder
+1. Once unzipped open the "Platformer" folder
 2. Double click "Game Server.exe" and run the server file.
 3. Double click "Game Client.exe" and run the client file.
 4. Double click "Game Client.exe" again for each additional client.
