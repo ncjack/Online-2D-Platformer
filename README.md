@@ -18,19 +18,27 @@ Controls:
 
 Movement
 
+
 A - Left
+
 S - Right
 
 Game Speed (Tickrate)
 
+
 H - Half Speed
+
 J - Full Speed
+
 K - Double Speed
+
 
 Pause/Unpause
 
 P - Pause
+
 O - Unpause
+
 
 Close
 
