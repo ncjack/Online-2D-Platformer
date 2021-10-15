@@ -15,34 +15,23 @@ How to run the Server/Client proof of concept program:
 
 Controls:
 
-
 Movement
-
-
-A - Left
-
-S - Right
+- A - Left
+- S - Right
 
 Game Speed (Tickrate)
-
-
-H - Half Speed
-
-J - Full Speed
-
-K - Double Speed
+- H - Half Speed
+- J - Full Speed
+- K - Double Speed
 
 
 Pause/Unpause
-
-P - Pause
-
-O - Unpause
+- P - Pause
+- O - Unpause
 
 
 Close
-
-Escape - Close Window
+- Escape - Close Window
 
 
 
