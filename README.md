@@ -7,17 +7,13 @@ How to run the main program:
 3. Double click "Game Client.exe" and run the client file.
 4. Double click "Game Client.exe" again for each additional client.
 
-How to run the Server/Client proof of concept program:
-1. Once unzipped open the "ClientServer" folder
-2. Double click "ZMQTest Server.exe" and run the server file.
-3. Double click "ZMQTest Client.exe" and run the client file.
-4. Double click "ZMQTest Client.exe" again for each additional client wanted.
 
 Controls:
 
 Movement
 - A - Left
 - S - Right
+- W - Jump
 
 Game Speed (Tickrate)
 - H - Half Speed
@@ -29,10 +25,15 @@ Pause/Unpause
 - P - Pause
 - O - Unpause
 
-
 Close
 - Escape - Close Window
 
+
+How to run the Server/Client Networking proof of concept program:
+1. Once unzipped open the "ClientServer" folder
+2. Double click "ZMQTest Server.exe" and run the server file.
+3. Double click "ZMQTest Client.exe" and run the client file.
+4. Double click "ZMQTest Client.exe" again for each additional client wanted.
 
 
 Resources used:
