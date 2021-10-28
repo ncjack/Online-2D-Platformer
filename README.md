@@ -1,6 +1,8 @@
 # Online-2D-Platformer
 Jackson Taylor
 
+![alt text](https://github.com/ncjack/Online-2D-Platformer/blob/main/4%20player%20platformer.jpg?raw=true)
+
 How to run the main program:
 1. Once unzipped, open the "Platformer" folder
 2. Double click "Game Server.exe" and run the server file.
