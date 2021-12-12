@@ -1,4 +1,4 @@
-CSC481 Engine Project by Jackson Taylor
+C++ Game Engine Project (Platformer) by Jackson Taylor
 
 ![Platformer Picture](https://github.com/ncjack/Online-2D-Platformer/blob/main/4%20player%20platformer.jpg?raw=true)
 
