@@ -1,5 +1,7 @@
 CSC481 Engine Project by Jackson Taylor
 
+![Platformer Picture](https://github.com/ncjack/Online-2D-Platformer/blob/main/4%20player%20platformer.jpg?raw=true)
+
 How to run the main Platformer program:
 1. Open the "Platformer" folder
 2. Double click "Game Server.exe" and run the server file.
