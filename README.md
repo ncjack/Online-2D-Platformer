@@ -48,3 +48,5 @@ How to run the Client-Server proof of concept program:
 Resources used:
 JSON for C++: https://github.com/nlohmann/json
 ZeroMQ for C++: https://zeromq.org/languages/cplusplus/#cppzmq
+DukTape for C: https://duktape.org/
+DukGlue for C++: https://github.com/Aloshi/dukglue
